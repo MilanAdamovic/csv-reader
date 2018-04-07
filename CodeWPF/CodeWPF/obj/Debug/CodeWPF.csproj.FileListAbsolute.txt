@@ -1,0 +1,14 @@
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\bin\Debug\CodeWPF.exe.config
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\bin\Debug\CodeWPF.exe
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\bin\Debug\CodeWPF.pdb
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF.csprojResolveAssemblyReference.cache
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\MainWindow.g.cs
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\App.g.cs
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF_MarkupCompile.cache
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF_MarkupCompile.lref
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\MainWindow.baml
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF.g.resources
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF.Properties.Resources.resources
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF.csproj.GenerateResource.Cache
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF.exe
+c:\users\milan\documents\visual studio 2015\Projects\CodeWPF\CodeWPF\obj\Debug\CodeWPF.pdb
